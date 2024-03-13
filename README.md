@@ -4,7 +4,7 @@
 	<!-- <h3> Hi there 👋 </h3> -->
 	<!-- <h3> Tech Stack </h3> -->
 	<br>
-	<p> Platforms & Languages </p>
+	<h3> Platforms & Languages </h3>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -22,7 +22,7 @@
 </div>
 <br>
 <div align=center>
-	<p> Tools </p>
+	<h3> Tools </h3>
 </div>
 <div align=center>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
